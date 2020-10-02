@@ -22,5 +22,5 @@ for item in dir_contents :
         else :
             print(f'Binod is not found in {item}')
         
-print("\n****Find Binod Summary****")
+print("\n******Find Binod Summary******")
 print(f'{nBinod} files found with Binod into it!!!')
